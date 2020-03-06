@@ -1,5 +1,5 @@
-[link-cws]: https://chrome.google.com/webstore/detail/ankitab/ihoaepdiibjbifnhcjoaddgcnfgjmjdk "Version published on Chrome Web Store"
-[link-amo]: https://addons.mozilla.org/en-US/firefox/addon/ankitab/ "Version published on Mozilla Add-ons"
+[link-cws]: https://chrome.google.com/webstore/detail/fnnpkjfendiieociibokhioeflbblepm "Version published on Chrome Web Store"
+[link-amo]: https://addons.mozilla.org/en-US/firefox/addon/soft-wrap-github-gists/ "Version published on Mozilla Add-ons"
 
 <h1 align="center">
   <br>
@@ -16,7 +16,7 @@
   <a href="#build">Build</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
-</p>ankita
+</p>
 
 ![screenshot](https://raw.githubusercontent.com/corollari/soft-wrap-github-gists/master/promo/screenshot.png)
 
