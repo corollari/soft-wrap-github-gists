@@ -21,8 +21,8 @@
 ![screenshot](https://raw.githubusercontent.com/corollari/soft-wrap-github-gists/master/promo/screenshot.png)
 
 ## Install
-- [**Chrome** extension][link-cws] [<img valign="middle" src="https://img.shields.io/chrome-web-store/v/ihoaepdiibjbifnhcjoaddgcnfgjmjdk.svg?label=%20">][link-cws]
-- [**Firefox** add-on][link-amo] [<img valign="middle" src="https://img.shields.io/amo/v/ankitab.svg?label=%20">][link-amo]
+- [**Chrome** extension][link-cws] [<img valign="middle" src="https://img.shields.io/chrome-web-store/v/fnnpkjfendiieociibokhioeflbblepm.svg?label=%20">][link-cws]
+- [**Firefox** add-on][link-amo] [<img valign="middle" src="https://img.shields.io/amo/v/soft-wrap-github-gists.svg?label=%20">][link-amo]
 
 ## Build
 ```bash
